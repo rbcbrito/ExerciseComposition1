@@ -20,7 +20,6 @@ public class Program {
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 		
 		System.out.print("Enter department's name: ");
-		sc.next();
 		String departmentName = sc.nextLine();
 		System.out.println("Enter worker data: ");
 		System.out.print("Name: ");
